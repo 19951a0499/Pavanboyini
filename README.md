@@ -42,4 +42,4 @@ I'm a fresher Data Analyst with hands-on experience in analyzing data, building 
 
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/pavan-boyini
-- Email: yourmail@gmail.com
+- Email: pavanboyini28@gmail.com
